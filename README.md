@@ -1,10 +1,10 @@
 ### Hi there!
 
-#### My name is Felix and I am a full stack web developer based in NYC.
+My name is Felix and I am a **full stack web developer** based in **NYC**.
 
-Some of the technologies I am most familiar with include Ruby on Rails and ReactJS.
+Some of the technologies I am most familiar with include **Ruby on Rails** and **ReactJS**.
 
-You can find out more about me and see some of the projects I have built by checking out my portfolio below.
+You can find out more about me and see some of the projects I have built by checking out my **[portfolio](https://whatfelixdoes.com)**.
 
 [whatfelixdoes.com](https://whatfelixdoes.com)
 
