@@ -2,7 +2,11 @@
 
 #### My name is Felix and I am a full stack web developer based in NYC.
 
-[Check out my portfolio!](https://whatfelixdoes.com)
+Some of the technologies I am most familiar with include Ruby on Rails and ReactJS.
+
+You can find out more about me and see some of the projects I have worked on by checking out my portfolio below.
+
+[whatfelixdoes.com](https://whatfelixdoes.com)
 
 <!--
 **frod25/frod25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
