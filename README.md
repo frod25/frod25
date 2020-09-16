@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Felix Rodriguez and I am a full stack web developer with experience in Ruby on Rails and ReactJS.
+
+[Check out my portfolio!](https://whatfelixdoes.com)
 
 <!--
 **frod25/frod25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
