@@ -1,4 +1,6 @@
-### Hi there, my name is Felix Rodriguez and I am a full stack web developer with experience in Ruby on Rails and ReactJS.
+### Hi there!
+
+#### My name is Felix and I am a full stack web developer based in NYC.
 
 [Check out my portfolio!](https://whatfelixdoes.com)
 
