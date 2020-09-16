@@ -4,7 +4,7 @@
 
 Some of the technologies I am most familiar with include Ruby on Rails and ReactJS.
 
-You can find out more about me and see some of the projects I have worked on by checking out my portfolio below.
+You can find out more about me and see some of the projects I have built by checking out my portfolio below.
 
 [whatfelixdoes.com](https://whatfelixdoes.com)
 
