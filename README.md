@@ -4,7 +4,7 @@
 
 :wrench: -- My favorite tools and languages to build projects include **Ruby on Rails, ReactJS, HTML,** and **CSS**.
 
-:briefcase: You can find out more about me and see some of the projects I have built by checking out my **[portfolio](https://whatfelixdoes.com)**.
+:briefcase: -- You can find out more about me and see some of the projects I have built by checking out my **[portfolio](https://whatfelixdoes.com)**.
 
 [whatfelixdoes.com](https://whatfelixdoes.com)
 
