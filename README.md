@@ -1,6 +1,6 @@
 ### Hi there!
 
-:computer: My name is Felix and I am a **full stack web developer** based in **NYC**.
+:computer: My name is Felix and I am a **full stack web developer/software engineer** based in **NYC**.
 
 :wrench: My favorite tools to build projects include **Ruby on Rails** and **ReactJS**.
 
